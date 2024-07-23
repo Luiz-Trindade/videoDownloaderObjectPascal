@@ -6,7 +6,7 @@
 
 <image src="img/screenshot1.png">
 
-### License:
+### Licença:
 
 This program is free software under the terms of the GNU General Public License as published by the Free Software Foundation. See the [GPL-3.0 License](https://www.gnu.org/licenses/) for more details.
 
@@ -14,4 +14,4 @@ This program is free software under the terms of the GNU General Public License 
 
 - Luiz Gabriel Magalhães Trindade
 
-Feel free to contribute, report issues, or suggest improvements. Happy downloading! 🚀
+Sinta-se livre para contribuir! 🚀
